@@ -20,16 +20,11 @@ header {
 
 main {
   width: 840px;
-  margin: 0 auto;
-}
-
-.contents-box {
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin: 50px auto;
 }
 
 .contents-item {
-  padding-top: 30px;
+  margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom: 1px solid #D4D4D4;
 }
